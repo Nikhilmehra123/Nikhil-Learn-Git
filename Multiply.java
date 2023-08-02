@@ -1,8 +1,8 @@
-public class Sum {
+public class Multiply {
      public static void main(String[] args) {
         
         int a = 12;
         int b = 13;
-        System.out.println("sum is: " +a+b);
+        System.out.println("sum is: " + (a*b));
     }
 }
